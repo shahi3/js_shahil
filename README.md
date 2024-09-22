@@ -1,2 +1,3 @@
-# js_shahil
-js code series
+# this is my first repo
+<br>
+author - shahil gusain
